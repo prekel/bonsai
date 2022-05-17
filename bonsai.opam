@@ -3,6 +3,9 @@ opam-version: "2.0"
 version: "v0.15"
 synopsis: "Bonsai"
 description: ""
+maintainer: [""]
+authors: [""]
+license: "MIT"
 depends: [
   "ocaml" {>= "4.08.0"}
   "dune" {>= "2.7"}

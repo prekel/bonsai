@@ -1,8 +1,16 @@
 (lang dune 2.7)
 
-(generate_opam_files true)
+(name bonsai)
 
 (version v0.15)
+
+(license MIT)
+
+(authors "")
+
+(maintainers "")
+
+(generate_opam_files true)
 
 (package
  (name bonsai)
